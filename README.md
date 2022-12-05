@@ -18,9 +18,13 @@
 </div>
 
 ## Overview
+<h1 align="center">Desktop</h1>
 
-![screenshot](./overview.png)
+![screenshot](./desktop.png)
 
+<h1 align="center">Mobile</h1>
+
+![screenshot](./mobile.png)
 
 ### Built With
 
