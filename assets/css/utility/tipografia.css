@@ -1,0 +1,39 @@
+
+:root {
+    --font-title-1: 700 36px/1.3 'PT Serif', serif;
+    --font-title-2: 600 18px/1.5 'Poppins', sans-serif;
+    --font-parag-1: 400 18px/1.5 'Poppins', sans-serif;
+    --font-detail-1: 400 12px/1.3 'PT Serif', serif;
+    --font-copy: 700 18px/1.5 'Poppins', sans-serif;
+}
+
+.font-title-1 {
+    font: var(--font-title-1);
+}
+.font-title-2 {
+    font: var(--font-title-2);
+}
+.font-parag-1 {
+    font: var(--font-parag-1);
+}
+.font-detail-1 {
+    font: var(--font-detail-1);
+}
+.font-copy {
+    font: var(--font-copy);
+}
+
+h1 {
+    font: var(--font-title-1);
+}
+
+h2 {
+    font: var(--font-title-2);
+}
+
+p {
+    font:var(--font-parag-1);
+}
+span {
+    font: var(--font-detail-1);
+}
